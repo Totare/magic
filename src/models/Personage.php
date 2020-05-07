@@ -33,6 +33,8 @@ class Personage {
     public function infos(): string {
         if ($this->isDead()) {
             return "{$this->name} is dead";
+        }  else if ($this->isDead()) {
+            return "{$this->name} is dead";
         } else {
             return "{$this->name} ({$this->hp} hp)";
         }
