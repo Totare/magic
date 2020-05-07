@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mon app</title>
+  <title>Magic</title>
 </head>
 <body>
 
-  <h1>Salut,</h1>
+  <h1>Hello,</h1>
   <h2 id="hero"></h2>
 
   <script type="text/javascript">
