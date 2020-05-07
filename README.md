@@ -1,0 +1,1 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/7188380beb946e61a3bb/maintainability)](https://codeclimate.com/github/Totare/magic/maintainability)
